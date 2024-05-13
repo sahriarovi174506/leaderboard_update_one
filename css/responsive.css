@@ -1,0 +1,18 @@
+/*----- sm devices (tablets, 767px and down) -----*/
+@media (max-width: 1024px) {
+  .main_page {
+    width: 100%;
+  }
+
+  .leader_wrap {
+    width: 342px;
+    margin: 0 auto;
+  }
+}
+
+/*----- sm devices (tablets, 575px and down) -----*/
+@media (max-width: 575px) {
+  .leader_wrap {
+    width: 100%;
+  }
+}
